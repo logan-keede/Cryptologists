@@ -31,12 +31,17 @@ This Chrome extension is designed to enhance your YouTube viewing experience by 
   **Extract Transcript**
 - Extract Transcript of a Video and copy it to clipboard.
 
+  
+
 ## Acknowledgements
 
 - [ Mentor-Harsh Sharma ]
   
 - [APIs](https://aws.amazon.com/what-is/api/)
 
+## Demo
+
+youtube video --> [ https://youtu.be/tCSYjU9dckY ]
 
 
 ## API Reference
@@ -106,10 +111,6 @@ We welcome feedback, bug reports, and contributions from the open-source communi
 
 ---
 
-
-## Demo
-
-Insert gif or link to the demo
 
 ## Installation
 
