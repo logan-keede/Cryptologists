@@ -29,7 +29,7 @@ This Chrome extension is designed to enhance your YouTube viewing experience by 
 - Quickly access and manage your saved timestamps through the extension's interface.
 
   **Extract Transcript**
-- Extract Transcript of a Video and copy it to clipboard.
+- Extract the Transcript of a Video and paste it into the chatbot, which generates a concise summary of the video.
 
   
 
