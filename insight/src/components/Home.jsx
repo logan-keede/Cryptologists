@@ -12,7 +12,7 @@ const Home = () => {
           <div className="flex flex-row justify-between items-center w-full">
             <h1 className="flex-1 font-poppins font-semibold ss:text-[72px] text-[52px] text-white ss:leading-[100.8px] leading-[75px]">
               DEBUG OF <br className="sm:block hidden" />{" "}
-              <span className="text-gradient">LIKES AND</span>{" "}
+              <span className="text-white">LIKES AND</span>{" "}
             </h1>
           </div>
 
@@ -26,7 +26,7 @@ const Home = () => {
         </div>
         <div className={`flex-1 flex ${styles.flexCenter} md:my-0 my-10 relative`}>
 
-         <Button styles={`mt-10`} />
+         <Button styles={`mt-8`} />
 
         </div>
       </section>
