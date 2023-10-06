@@ -2,13 +2,9 @@
 
 **OVERVIEW**
 
-This Chrome extension is designed to enhance your YouTube viewing experience by providing two key features:
+Introducing our cutting-edge Chrome extension, the ultimate companion for YouTube enthusiasts! With our innovative extension, you can now effortlessly access critical video metrics at a glance. 
 
-- Video Like Counter: View the number of likes on a YouTube video without having to open the video itself.
-
-- Timestamp Bookmarker: Easily bookmark and store timestamps for important moments in a video. These bookmarks are saved locally for future reference.
-
-- Extract Transcript: Extract the Transcript of a Video and copy it to the clipboard,
+Say goodbye to the tedious process of navigating through various menus to check likes, dislikes, and subscriber counts for your favorite YouTube videos. Our extension streamlines this experience, providing you with a seamless, informative, and user-friendly interface right within your browser. Stay informed, stay connected, and enhance your YouTube experience like never before with our feature-rich Chrome extension.
 
 
 
