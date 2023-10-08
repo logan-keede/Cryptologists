@@ -171,23 +171,23 @@ If you encounter any issues with the extension, please check the following:
 
 ## 🔗 Developers profile
 
-**Vedic Chawla**
-[![Git Hub profile](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![Linkdin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your_instagram_profile/)
+**Aman Parmar **
+[![Git Hub profile](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Amanparmar90)
+[![Linkdin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-parmar-876238262)
+[![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/amanparmar_15?igshid=OGQ5ZDc2ODk2ZA==)
 
 
 
-**Aman Parmar**
+**Vedic Chawla **
 [![Git Hub profile](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://https://github.com/logan-keede/)
 [![Linkdin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedic-chawla-a46538255/)
 [![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vedic_chawla/)
 
 
 **Devika Verma**
-[![Git Hub profile](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![Linkdin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your_instagram_profile/)
+[![Git Hub profile](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/devikaverma155)
+[![Linkdin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devika-verma-56025924b)
+[![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_devika_verma_?igshid=OGQ5ZDc2ODk2ZA==)
 
 
 
@@ -202,7 +202,7 @@ If you encounter any issues with the extension, please check the following:
  - Fonts [ https://fontawesome.com/ ]
  - ChatGpt [ https://chat.openai.com/c/24f030f9-47cb-474c-90f5-dad3c4e91427 ]
  - GitHub documents [ https://docs.github.com/en/actions ]
- - 
+
 
 `
 ## Tech Stack
